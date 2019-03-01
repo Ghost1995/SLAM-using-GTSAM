@@ -1,4 +1,4 @@
-# Homework 1
+# SLAM-using-GTSAM
 
 **Problem Statement**
 
